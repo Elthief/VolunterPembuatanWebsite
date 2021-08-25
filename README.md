@@ -6,4 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan we
 Berikut daftar Volunter yang diterima:
 
 * Andi Arfiandwi, [and.or.id](https://and.or.id).
-* Budi Bedudul, [Linkedin](https://linkedin.com).
+* Budi Bedudul, [Linkedin](https://linkedin.com/in/budibedudul).
